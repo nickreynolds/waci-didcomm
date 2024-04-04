@@ -186,7 +186,7 @@ Description of fields:
 Presentation Format | Format Value | Link to Attachment Format | Comment |
 --- | --- | --- | --- | 
 Hyperledger Indy Proof Req| hlindy/proof-req@v2.0 | [proof request format](https://github.com/hyperledger/aries-rfcs/blob/main/features/0592-indy-attachments/README.md#proof-request-format) | Used to propose as well as request proofs.
-DIF Presentation Exchange | `dif/presentation-exchange/definitions@v1.0` | [`propose-presentation` attachment format](https://github.com/hyperledger/aries-rfcs/blob/main/features/0510-dif-pres-exch-attach/README.md#propose-presentation-attachment-format) | 
+DIF Presentation Exchange | `dif/presentation-exchange/definitions@v1.0` | [`propose-presentation` attachment format](https://github.com/hyperledger/aries-rfcs/blob/main/features/0510-dif-pres-exch-attach/README.md#request-presentation-attachment-format) | 
 
 ### Presentation
 
